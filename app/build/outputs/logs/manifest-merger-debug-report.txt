@@ -1,0 +1,360 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:design:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e31fb8e6a3b15d6bbb70eb2183e2539e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1179c0f31cf6184c861ae96617d2dc3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/tyson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7d9eacacffaaa09b57ede2709ff65f71/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dafa9eac9b0d8d23a1a5d4c190726a5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/6b5af4ee6b4570f6ac0bf9f2c844bd9e/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/037ad37fbbae1d465fb46b789bb488e6/AndroidManifest.xml:15:1-26:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/5a4d1de7f5832c48ace8bc2c2c2decd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/40a4126bf37518a9f0db92970c0c763a/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/39e7e05749409218f5a1197e4ec07092/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/880730e5ae5db4982457026f92f67553/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/011f9e36a7ee55612c9e0b043e6530c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f6acf0126afc134d82b7c16919a6814d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ba4e7b06a6c9d46dc3bb2e7bcfb6cda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b231f1f32a9b5713e3ada7b9bea91c85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/9b07011a8d5f4278a56bb0ca03c8cb72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/03e87332e75ebe838d76dfaaae2618e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5ccd5d781e2f6b82cad857995a61286a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bcc0cad912002b7e4274f3a665a626d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a04934becac96259038411f9fb234e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7eccc00a04f8e106f035e8437a585572/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bdf2f837ee8412724356a9181a1b2276/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0a683fd2e61dda84e2e86ae149972d72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6182b5a716fb2d8fe84ccaf33671df0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68541319070bb13dc4d9502fb38ec1ab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23a722ecf0edfc8514b9431bfb49e198/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1567e7ed8df52e15600faabb9b19d37/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c4b77cef5234f9c02ac0fc30ded43bb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/cd023b4d9ea9ef37253f52841e8aeaaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/23c4700a3bbbb38242838898314cea63/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/644ed8f1f967a43bdd6d612a10de1910/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9790eb46235244ed80b3333410e68a3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8ffde1567156f2fe96db53fcf5264ffd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c0adde4c85abcbf991b1ea26058fe16f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3a3ee3a078fe59a95a98d4b8897ae9f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80c399df791126c3e707fd093a225b3f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/72a1d5aae62dff91ecc8080c117c81f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b6602965a0995d7d53c0134aa8fe0bf1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dd1488eada6e9002a928089d4fcd17cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/9fc9654714178e13dd528037940e5071/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:6:22-77
+uses-feature#android.hardware.camera
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:10:9-53
+uses-permission#android.permission.CAMERA
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:14:22-63
+application
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:16:5-36:19
+MERGED from [com.android.support:design:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e31fb8e6a3b15d6bbb70eb2183e2539e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e31fb8e6a3b15d6bbb70eb2183e2539e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/tyson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7d9eacacffaaa09b57ede2709ff65f71/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/tyson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7d9eacacffaaa09b57ede2709ff65f71/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:23:5-40:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/40a4126bf37518a9f0db92970c0c763a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/40a4126bf37518a9f0db92970c0c763a/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/39e7e05749409218f5a1197e4ec07092/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/39e7e05749409218f5a1197e4ec07092/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68541319070bb13dc4d9502fb38ec1ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68541319070bb13dc4d9502fb38ec1ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23a722ecf0edfc8514b9431bfb49e198/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23a722ecf0edfc8514b9431bfb49e198/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1567e7ed8df52e15600faabb9b19d37/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1567e7ed8df52e15600faabb9b19d37/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23a722ecf0edfc8514b9431bfb49e198/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.example.applicationcapture.Theft_Activity
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:23:19-49
+activity#com.example.applicationcapture.Camera_Activity
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:24:19-50
+activity#com.example.applicationcapture.ForgetPswActivity
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:25:19-52
+activity#com.example.applicationcapture.RegisterActivity
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:26:19-51
+activity#com.example.applicationcapture.HomeActivity
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:27:19-47
+activity#com.example.applicationcapture.LoginActivity
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:28:19-48
+activity#com.example.applicationcapture.MainActivity
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e31fb8e6a3b15d6bbb70eb2183e2539e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e31fb8e6a3b15d6bbb70eb2183e2539e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1179c0f31cf6184c861ae96617d2dc3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1179c0f31cf6184c861ae96617d2dc3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/tyson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7d9eacacffaaa09b57ede2709ff65f71/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/tyson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7d9eacacffaaa09b57ede2709ff65f71/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dafa9eac9b0d8d23a1a5d4c190726a5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dafa9eac9b0d8d23a1a5d4c190726a5c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/6b5af4ee6b4570f6ac0bf9f2c844bd9e/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/6b5af4ee6b4570f6ac0bf9f2c844bd9e/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/037ad37fbbae1d465fb46b789bb488e6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/037ad37fbbae1d465fb46b789bb488e6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/5a4d1de7f5832c48ace8bc2c2c2decd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/5a4d1de7f5832c48ace8bc2c2c2decd8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/40a4126bf37518a9f0db92970c0c763a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/40a4126bf37518a9f0db92970c0c763a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/39e7e05749409218f5a1197e4ec07092/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/39e7e05749409218f5a1197e4ec07092/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/880730e5ae5db4982457026f92f67553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/880730e5ae5db4982457026f92f67553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/011f9e36a7ee55612c9e0b043e6530c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/011f9e36a7ee55612c9e0b043e6530c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f6acf0126afc134d82b7c16919a6814d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f6acf0126afc134d82b7c16919a6814d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ba4e7b06a6c9d46dc3bb2e7bcfb6cda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/0ba4e7b06a6c9d46dc3bb2e7bcfb6cda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b231f1f32a9b5713e3ada7b9bea91c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b231f1f32a9b5713e3ada7b9bea91c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/9b07011a8d5f4278a56bb0ca03c8cb72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/9b07011a8d5f4278a56bb0ca03c8cb72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/03e87332e75ebe838d76dfaaae2618e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/03e87332e75ebe838d76dfaaae2618e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5ccd5d781e2f6b82cad857995a61286a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5ccd5d781e2f6b82cad857995a61286a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bcc0cad912002b7e4274f3a665a626d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bcc0cad912002b7e4274f3a665a626d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a04934becac96259038411f9fb234e1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a04934becac96259038411f9fb234e1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7eccc00a04f8e106f035e8437a585572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7eccc00a04f8e106f035e8437a585572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bdf2f837ee8412724356a9181a1b2276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bdf2f837ee8412724356a9181a1b2276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0a683fd2e61dda84e2e86ae149972d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0a683fd2e61dda84e2e86ae149972d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6182b5a716fb2d8fe84ccaf33671df0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6182b5a716fb2d8fe84ccaf33671df0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68541319070bb13dc4d9502fb38ec1ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68541319070bb13dc4d9502fb38ec1ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23a722ecf0edfc8514b9431bfb49e198/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23a722ecf0edfc8514b9431bfb49e198/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1567e7ed8df52e15600faabb9b19d37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1567e7ed8df52e15600faabb9b19d37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c4b77cef5234f9c02ac0fc30ded43bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c4b77cef5234f9c02ac0fc30ded43bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/cd023b4d9ea9ef37253f52841e8aeaaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/cd023b4d9ea9ef37253f52841e8aeaaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/23c4700a3bbbb38242838898314cea63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/23c4700a3bbbb38242838898314cea63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/644ed8f1f967a43bdd6d612a10de1910/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/644ed8f1f967a43bdd6d612a10de1910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9790eb46235244ed80b3333410e68a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9790eb46235244ed80b3333410e68a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8ffde1567156f2fe96db53fcf5264ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8ffde1567156f2fe96db53fcf5264ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c0adde4c85abcbf991b1ea26058fe16f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c0adde4c85abcbf991b1ea26058fe16f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3a3ee3a078fe59a95a98d4b8897ae9f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3a3ee3a078fe59a95a98d4b8897ae9f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80c399df791126c3e707fd093a225b3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80c399df791126c3e707fd093a225b3f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/72a1d5aae62dff91ecc8080c117c81f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/72a1d5aae62dff91ecc8080c117c81f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b6602965a0995d7d53c0134aa8fe0bf1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b6602965a0995d7d53c0134aa8fe0bf1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dd1488eada6e9002a928089d4fcd17cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dd1488eada6e9002a928089d4fcd17cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/9fc9654714178e13dd528037940e5071/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/9fc9654714178e13dd528037940e5071/AndroidManifest.xml:5:5-44
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+		ADDED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyson/Project/Android/ApplicationCapture/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/082294daa3d43f49931f44e74eab6328/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/6b5af4ee6b4570f6ac0bf9f2c844bd9e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/037ad37fbbae1d465fb46b789bb488e6/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/037ad37fbbae1d465fb46b789bb488e6/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/6b5af4ee6b4570f6ac0bf9f2c844bd9e/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/6b5af4ee6b4570f6ac0bf9f2c844bd9e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/037ad37fbbae1d465fb46b789bb488e6/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/037ad37fbbae1d465fb46b789bb488e6/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.5] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/6b5af4ee6b4570f6ac0bf9f2c844bd9e/AndroidManifest.xml:23:22-64
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/tyson/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/110b3aab963b332cd22a7b07b83ab08b/AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/c094204bdd26059673551d2aa6d39a3c/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /home/tyson/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/90787bb40edd7092af741d5e9bb4aa49/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/fdbc9369b4f880feb5c00755efdfe5be/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68541319070bb13dc4d9502fb38ec1ab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68541319070bb13dc4d9502fb38ec1ab/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/tyson/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/47374f8bf89d7b80aff9ab98afafe915/AndroidManifest.xml:27:13-51

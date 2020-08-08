@@ -1,0 +1,4 @@
+#Thu Apr 11 12:52:55 IST 2019
+base.0=/home/tyson/Project/Android/ApplicationCapture/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
